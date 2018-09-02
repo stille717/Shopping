@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file alias="login">resource/67211fea1d08af24fc1634d8811ca01b.png</file>
+        <file alias="bt">resource/buttonImg.png</file>
+        <file alias="shopping">resource/shopping.jpg</file>
+        <file alias="start">resource/程序启动画面.jpg</file>
+        <file alias="password">resource/db4ac306584ca5ab2d9c97d265adb95a.jpg</file>
+    </qresource>
+    <qresource prefix="/db">
+        <file>resource/data.db</file>
+    </qresource>
+</RCC>
